@@ -1,0 +1,38 @@
+body{
+    background-color: #AEDFEF;
+    font-family: Arial, sans-serif;
+  
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentImg{
+    flex-grow: 1;
+    border: 5px solid #000;
+    width: 300px;
+    height: 250px;
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.gallery img{
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
