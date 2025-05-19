@@ -1,5 +1,5 @@
 body{
-    background-color: #AEDFEF;
+    background-image: url("./images/background.jpg");
     font-family: Arial, sans-serif;
   
 }
@@ -36,4 +36,12 @@ section{
     height: 180px;
     margin: 5px;
     border: 5px solid blue;
+}
+
+
+.subHeading{
+    text-align: center;
+    color: #000;
+    margin: 0 !important;
+    padding: 0 !important;
 }
