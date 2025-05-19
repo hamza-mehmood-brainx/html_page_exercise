@@ -45,3 +45,9 @@ section{
     margin: 0 !important;
     padding: 0 !important;
 }
+
+.highlight{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
